@@ -48,7 +48,7 @@ datasource:
     #password: 'testuser'
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://15.164.195.107:31306/cpdev
-    username: aaa
+    username: terraman
     password: Paasta!2022
 
 jpa:
